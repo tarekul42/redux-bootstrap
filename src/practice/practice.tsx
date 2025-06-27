@@ -26,8 +26,7 @@ export const Practice = () => {
   );
 };
 
-// store.ts
-import { configureStore, createSlice } from "@reduxjs/toolkit";
+// { configureStore, createSlice } from "@reduxjs/toolkit";
 
 const store = configureStore({
   reducer: {},
